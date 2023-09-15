@@ -30,7 +30,6 @@ This is a Flutter application that provides the following features:
 
 - Fetching Data from JSON Placeholder: This Flutter app fetches data from JSON Placeholder for dynamic content.
 
-- Other Features: Mention any other notable features of your Flutter app here.
 
 ## Installation
 
