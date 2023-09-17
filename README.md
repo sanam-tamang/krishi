@@ -42,5 +42,5 @@ Once downloaded, you can install the app on your Android device.
 
 ## Usage
 
-To use this Flutter app, simply install it on your Android device using the APK file provided. Follow the on-screen instructions to get started.
+To use this Flutter app, simply install it on your Android device using the APK file provided.
 
